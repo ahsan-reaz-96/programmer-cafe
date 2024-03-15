@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "cover": "../src/assets/images/2.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "AM",
+      "author_img": "../src/assets/images/boy1.png",
+      "posted_date": "2024-03-13",
+      "reading_time": 10,
+      "hashtags": ["fiction", "LoremIpsum", "storytelling"]
+    },
+    {
+      "id": "2",
+      "cover": "../src/assets/images/1.jpg",
+      "title": "i'm programmer, i have no life",
+      "author": "REAZ",
+      "author_img": "../src/assets/images/boy2.png",
+      "posted_date": "2024-03-14",
+      "reading_time": 15,
+      "hashtags": ["adventure", "philosophy", "creativity"]
+    },
+    {
+      "id": "3",
+      "cover": "../src/assets/images/3.png",
+      "title": "i'm programmer, i have no life",
+      "author": "AM Reaz",
+      "author_img": "../src/assets/images/girl1.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 8,
+      "hashtags": ["sciencefiction", "technology", "innovation"]
+    },
+    {
+      "id": "4",
+      "cover": "../src/assets/images/4.jpg",
+      "title": "i'm programmer, i have no life",
+      "author": "Raja",
+      "author_img": "../src/assets/images/girl2.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 10,
+      "hashtags": ["programmer", "Developer", "innovation"]
+    }
+  ]
+  
